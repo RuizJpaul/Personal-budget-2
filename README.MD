@@ -7,3 +7,5 @@
 | Fiesta | Egreso | 150 |
 | Clase | Ingreso | 40 |
 | Viaje | Egreso | 400 |
+
+[Link](https://ruizjpaul.github.io/Personal-budget-2/)
